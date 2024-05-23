@@ -1,7 +1,6 @@
 import type { Namespace } from '@/types';
 
 export const namespace: Namespace = {
-    name: 'nhentai',
-    url: 'nhentai.net',
-    categories: ['anime'],
+    name: 'FT 中文网',
+    url: 'ftchinese.com',
 };
